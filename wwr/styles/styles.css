@@ -8,16 +8,16 @@ nav a, #hero-msg h1, #hero-msg h4, .button-box, main section{
 }
 #background{
     height: 725px;
-    background-color: #0000;
+    background-color: #ffff;
 }
 body{
-    background-color: #0000;
+    background-color: #ffff;
 }
 header{
     background-color: #7ea3cc;
 }
 nav a:hover{
-    background-color: #0000;
+    background-color: #ffff;
 }
 .book, .join{
     background-color: #f6e851;
@@ -30,7 +30,7 @@ nav a:hover{
     background-color: #7ea3cc;
 }
 footer{
-    background-color: #0000;
+    background-color: #ffff;
 }
 .icon{
     width: 80px;
