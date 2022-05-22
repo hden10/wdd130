@@ -57,8 +57,11 @@ nav a:hover{
     border-radius: 5px; 
     font-size: 18px;
 }
-.book:hover, .join:hover{
+.book:hover{
     background-color: #7ea3cc;
+}
+.join:hover{
+    background-color: #ffff;
 }
 .msg{
     background-color: #7ea3cc;
