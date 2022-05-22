@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:wght@300&display=swap');
 #content {
     margin: 0 auto;
     max-width: 1600px
@@ -23,7 +24,7 @@ main section img{
 }
 #background{
     height: 725px;
-    background-color: #ffff;
+    background-color: #f6e851;
 }
 body{
     background-color: #ffff;
@@ -65,7 +66,7 @@ nav a:hover{
     padding: 35px;
 }
 footer{
-    background-color: #ffff;
+    background-color: #7ea3cc;
     padding: 25px 50px;
     margin-top: 200px;
 }
