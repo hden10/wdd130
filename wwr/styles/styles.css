@@ -156,7 +156,24 @@ h2 {
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
+#title{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+.rafting{
+    float: right;
+}
+.money{
+    clear: right;
+}
+.swim{
+    float: left;
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+}
 
+    
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
